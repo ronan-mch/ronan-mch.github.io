@@ -9,5 +9,5 @@ twitter_username:
 github_username:  ronan-mch
 
 # Build settings
-highlighter: rouge
+highlighter: pygments
 markdown: kramdown
