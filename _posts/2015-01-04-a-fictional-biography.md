@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A fictional biography?"
+title:  "A Fictional Biography?"
 date:   2015-01-04 00:49:00
 categories: post other
 ---
