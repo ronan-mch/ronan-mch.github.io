@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.css" />
+    <script src="//cdn.opalrb.org/opal/0.10.1/opal.min.js"></script>
+    <script src="//cdn.opalrb.org/opal/0.10.1/opal-parser.js"></script>
+    <script type="text/javascript">Opal.load('opal-parser')</script>
+    <title>Test Ruby data transformations</title>
+    <h1>Test Ruby data transformations</h1>
+    <hr/>
+    <section>
+    <textarea id="code" placeholder="Enter your Ruby code here" cols="40" rows="20"></textarea>
+    <input type="submit" id="submit" value="Run"/>
+    </section>
+    <section>
+        <p id="output"></p>
+    </section>
+    <script>
+      var btn = document.getElementById('submit');
+      btn.addEventListener('click', run);
+      var results = document.getElementById('output');
+
+      function run(e) {
+          var code = document.getElementById('code').value;
+          var output = Opal.eval(code);
+          results.textContent = output;
+      }
+    </script>
+
+
+</html>
