@@ -1,0 +1,146 @@
+<rss 
+    xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:spotify="https://www.spotify.com/ns/rss"
+    version="2.0">
+    <channel>
+        <title>Hydra Bøger</title>
+        <link>http://hydrabooks.dk/</link>
+        <description>Anarkistiske lydbøger på dansk</description>
+        <language>da</language>
+        <itunes:author>Hydra Books</itunes:author>
+        <itunes:email>info@hydrabooks.dk</itunes:email>
+        <itunes:image href="http://hydrabooks.dk/wp-content/uploads/2020/07/cropped-Hydra_logo_2020.png" />
+        <itunes:explicit>clean</itunes:explicit>
+        <spotify:countryOfOrigin>da</spotify:countryOfOrigin>
+        <itunes:type>serial</itunes:type>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Forord.mp3
+            </guid>
+            <enclosure url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Forord.mp3"
+type="audio/mpeg" length="3578941" />
+            <title>Anarkismens ABC: Forord</title>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Biografi.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="10228795" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Biografi.mp3" /> 
+            <title>Anarkismens ABC: En kort biografi </title>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_A.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="1772817" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_A.mp3" /> 
+            <title>Anarkismens ABC: Kapitel A – Forfatterens forord </title>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_B.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="14704893" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_B.mp3" /> 
+            <title>Anarkismens ABC: Kapitel B – Er anarkisme vold? </title>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_C.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="6016775" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_C.mp3" /> 
+            <title>Anarkismens ABC: Kapitel C – Hvad er anarkisme? </title>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_D.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="9544768" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_D.mp3" /> 
+            <title>Anarkismens ABC: Kapitel D – Er anarkisme muligt? </title>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_E.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="36176710" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_E.mp3" /> 
+            <title>Anarkismens ABC: Kapitel E – Vil den kommunistiske anarkisme fungere? </title>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_F.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="5009075" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_F.mp3" /> 
+            <title>Anarkismens ABC: Kapitel F – Ikke-kommunistiske anarkister </title>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_G.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="10960814" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_G.mp3" /> 
+            <title>Anarkismens ABC: Kapitel G – Hvorfor revolution? </title>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_H.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="13721017" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_H.mp3" /> 
+            <title>Anarkismens ABC: Kapitel H – Det er ideerne, det drejer sig om </title>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_I.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="28712795" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_I.mp3" /> 
+            <title>Anarkismens ABC: Kapitel I – Forberedelse </title>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_J.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="34993049" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_J.mp3" /> 
+            <title>Anarkismens ABC: Kapitel J – Arbejdets organisering for den sociale revolution </title>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_K.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="9488762" url="http://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_K.mp3" /> 
+            <title>Anarkismens ABC: Kapitel K – Teori og praksis </title>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_L.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="17600932" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_L.mp3" /> 
+            <title>Anarkismens ABC: Kapitel L – Forbrug og fordeling </title>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_M.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="17249010" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_M.mp3" /> 
+            <title>Anarkismens ABC: Kapitel M – Produktionen </title>
+            <itunes:order>15</itunes:order>
+        </item>
+        <item>
+            <guid isPermaLink="true">
+                https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_N.mp3
+            </guid>
+            <enclosure type="audio/mpeg" length="12504755" url="https://hest.barrikaden.dk/wp-content/uploads/2017/02/Anarchy_N.mp3"/> 
+            <title>Anarkismens ABC: Kapitel N – Forsvaret for revolutionen </title>
+            <itunes:order>16</itunes:order>
+        </item>
+    </channel>
+</rss>
